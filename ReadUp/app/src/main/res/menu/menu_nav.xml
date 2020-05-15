@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/discover"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home" />
+    <item
+        android:id="@+id/searchComic"
+        android:title="@string/title_comic"
+        android:icon="@drawable/ic_comic" />
+    <item
+        android:id="@+id/searchNovel"
+        android:title="@string/title_novel"
+        android:icon="@drawable/ic_novel" />
+    <item
+        android:id="@+id/account"
+        android:title="@string/title_account"
+        android:icon="@drawable/ic_account" />
+
+</menu>
